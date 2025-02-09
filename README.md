@@ -1,6 +1,8 @@
 # for-llm-service-deployment
 api code for llm pipeline
 
+docker image is in my package.
+
 `docker pull ghcr.io/genji970/api_image:latest`
 
 collecting pdf data -> fine tuning -> rest api -> deploying in aws
