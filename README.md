@@ -14,3 +14,5 @@ collecting pdf data -> fine tuning -> rest api -> deploying in aws
 3)there's no saved model in this repo. git clone 2)'s link and type `python -m llm_project_train.master.main True` in terminal. then saved model will be made. But 3) step is unnecessary for using this api since docker image is built
 
 4)didn't opt yet
+
+5)used mongodb
